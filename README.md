@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou o Roni</h1>
-<h3 align="center">A researcher and passionate developer technologies new</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
