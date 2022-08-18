@@ -12,7 +12,7 @@ Olá 👋 Eu sou o Roni, um eterno aprendiz Pernambucano! Entusiasta de novas te
 </p>
 
 ```python
-class RoniTrips():
+class Roni():
     
   def __init__(self):
     self.name = "Roni Maciel"
@@ -25,7 +25,7 @@ class RoniTrips():
     return self.name
 
 if __name__ == '__main__':
-    me = RoniTrips()
+    me = Roni()
 ```
 
 <!--
