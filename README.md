@@ -25,7 +25,7 @@ class RoniTrips():
     return self.name
 
 if __name__ == '__main__':
-    me = Roni()
+    me = RoniTrips()
 ```
 
 <!--
