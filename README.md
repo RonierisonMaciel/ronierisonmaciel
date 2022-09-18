@@ -20,6 +20,7 @@ class Roni():
     self.location = "Recife, Pernambuco"
     self.twitter = "@ronimaciell"
     self.web = "https://maciel.recife.br"
+    self.email = "ronierison dot maciel at gmail dot com"
   
   def __str__(self):
     return self.name
