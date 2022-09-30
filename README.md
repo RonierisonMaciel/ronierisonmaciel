@@ -7,7 +7,14 @@ Olá 👋 Eu sou o Roni, um eterno aprendiz Pernambucano! Entusiasta de novas te
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="75" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="75" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="js" width="75" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="75" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="75" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="Amazon" width="120" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="120" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="120" height="60"/>
 </div>
 </p>
 
