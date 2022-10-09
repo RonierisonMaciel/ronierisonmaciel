@@ -28,6 +28,7 @@ class Roni():
     self.twitter = "@ronimaciell"
     self.web = "https://maciel.recife.br"
     self.email = "ronierison.maciel@gmail.com"
+    self.hardskill = "Python, Java, JavaScript, Node, MySQL, AWS, Git, Linux"
   
   def __str__(self):
     return self.name
